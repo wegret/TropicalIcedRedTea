@@ -1,5 +1,7 @@
 计算方法，suki。
 
+6.11 我不喜欢计算方法了。
+
 
 - [往年题整理](https://wegret.github.io/TropicalIcedRedTea/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/%E5%BE%80%E5%B9%B4%E9%A2%98%E6%95%B4%E7%90%86.html)
 - [插值法](https://wegret.github.io/TropicalIcedRedTea/%E8%AE%A1%E7%AE%97%E6%96%B9%E6%B3%95/%E6%8F%92%E5%80%BC%E6%B3%95.html)
